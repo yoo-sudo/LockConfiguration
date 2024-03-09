@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lock Setting Configuration</string>
+    <string name="summaru_title">Lock Parameters</string>
+    <string name="edit_title">Edit</string>
+    <string name="lock_voltage">Lock Voltage</string>
+    <string name="lock_type">Lock Type</string>
+    <string name="lock_kick">Lock Kick</string>
+    <string name="lock_release">Lock Release</string>
+    <string name="lock_release_time">Lock Release Time</string>
+    <string name="lock_angle">Lock Angle</string>
+</resources>
